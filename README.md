@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I'm a Web Developer who is knowledgeable in a wide array of front end and back end languages, responsive frameworks, databases, and best code practices. My objective is simply to be the best web developer I can be and to make an impact on the technology industry. I am dedicated to perfecting my craft by learning everday and pushing my abilities with code.
 
-* 📖  I'm currently a student at George Mason University, studying Information Technology
+* 📖  I'm currently  studying Information Technology at George Mason University
 * 🖥️  Check out my portfolio here: [Portfolio](http://adam-abdulkadir.netlify.app/)
 * ✉️  You can contact me at [adama1862@outlook.com](mailto:adama1862@outlook.com)
 
