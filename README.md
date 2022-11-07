@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adam Abdulkadir
 =======================================================================================================================================
 
-I'm a Web Developer who is knowledgeable in a wide array of front end and back end languages, responsive frameworks, databases, and best code practices. My objective is simply to be the best web developer I can be and to make an impact on the technology industry. I am dedicated to perfecting my craft by learning everday and pushing my abilities with code.
+Software Developer equipped with a diverse programming skill-set. Proficient in various platforms, languages, and embedded systems. Experienced with cutting-edge development tools and procedures. Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team.
 
 * 📖  I'm currently  studying Information Technology at George Mason University
 * 🖥️  Check out my portfolio here: [Portfolio](http://adam-abdulkadir.netlify.app/)
