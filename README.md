@@ -4,9 +4,9 @@ Software Engineer based in Charlotte, NC. I build and support high-volume distri
 
 I've worked across the full stack — from extracting microservices out of monoliths and remediating production security vulnerabilities, to building React frontends and deploying with Docker and Kubernetes.
 
-- 🖥️ Portfolio: [adam-abdul.com](https://adam-abdul.com/)
-- ✉️ Email: [adama1862@outlook.com](mailto:adama1862@outlook.com)
-- 📄 [Resume](https://adam-abdul.com/files/adam-abdulkadir-resume.pdf)
+- 🖥️ Portfolio: <a href="https://adam-abdul.com/" target="_blank" rel="noopener noreferrer">adam-abdul.com</a>
+- ✉️ Email: <a href="mailto:adama1862@outlook.com">adama1862@outlook.com</a>
+- 📄 <a href="https://adam-abdul.com/files/adam_abdulkadir_resume.pdf" target="_blank" rel="noopener noreferrer">Resume</a>
 
 ### What I work with
 
