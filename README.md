@@ -6,7 +6,7 @@ I've worked across the full stack — from extracting microservices out of monol
 
 - 🖥️ Portfolio: [adam-abdul.com](https://adam-abdul.com/)
 - ✉️ Email: [adama1862@outlook.com](mailto:adama1862@outlook.com)
-- 📄 [Resume](https://adam-abdul.com/files/adam_abdulkadir_resume.pdf)
+- 📄 [Resume](https://adam-abdul.com/files/adam-abdulkadir-resume.pdf)
 
 ### What I work with
 
