@@ -3,7 +3,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Software Developer equipped with a diverse programming skill-set. Proficient in various platforms, languages, and embedded systems. Experienced with cutting-edge development tools and procedures. Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team.
 
-* 📖  I'm currently  studying Information Technology at George Mason University
 * 🖥️  Check out my portfolio here: [Portfolio](https://adam-abdul.com/)
 * ✉️  You can contact me at [adama1862@outlook.com](mailto:adama1862@outlook.com)
 
